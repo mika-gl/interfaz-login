@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+}
+
+.title {
+	text-align: center;
+	width: auto;
+	margin: 1em auto 2em auto;
+	
+}
+.form_cont {
+	text-align: center;
+	width: auto;
+	margin: 1em;
+}
+.form{
+	background-color: lightgrey;
+	width: 30%;
+	margin: auto;
+	padding-top: 1em;
+	border: 2px solid darkgrey;
+}
+.form_auth_err {
+	text-align: center;
+	font-size: 0.85em;
+	font-family: sans;
+	color: red;
+}
